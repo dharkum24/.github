@@ -25,8 +25,9 @@ This comprehensive guide is designed to walk you through the process of integrat
 12. [Gateway and Registry Endpoints](#gateway-and-registry-endpoints)
 13. [Network Observability for Production](#network-observability-for-production)
 14. [Catalog and Store Rejection](#catalog-and-store-rejection)
-15. [Technical support](#technical-support)
-16. [Latest Updates](#latest-updates)
+15. [City and State codes](#city-and-state-codes)
+16. [Technical support](#technical-support)
+17. [Latest Updates](#latest-updates)
 
 ## Getting Started
 
@@ -253,6 +254,13 @@ Refer to the following document for the Catalog and Store Rejection Report - Fra
 > [Catalog Rejection](https://docs.google.com/document/d/1y_kBhwSwyN2D39VucTtqEQdp7WSEGYMg/edit)
 
 > [Swagger Document](https://app.swaggerhub.com/apis/ONDC/Catalog_Status_APIs/1.2.0#)
+
+
+## City and State codes
+
+Refer to the following document for the City-Pincode mapping and State codes
+
+> [City and State Codes]([https://docs.google.com/document/d/1y_kBhwSwyN2D39VucTtqEQdp7WSEGYMg/edit](https://docs.google.com/spreadsheets/d/12A_B-nDtvxyFh_FWDfp85ss2qpb65kZ7/edit?usp=sharing&ouid=106289085575597209813&rtpof=true&sd=true))
 
 ## Network Observability for Production
 
